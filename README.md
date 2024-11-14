@@ -56,6 +56,10 @@ Before setting up the project, ensure you have the following installed:
 
     tisrayan/
     ├── accounts/            # Contains user account management functionality
+    ├── blog/            # Contains blog posts management functionality
+    ├── config/            # Contains project management
+    ├── index/            # Contains single pages management functionality
+    ├── portfolio/            # Contains portfolio management functionality
     ├── main.py              # Main script (if applicable)
     ├── manage.py            # Django project management utility
     ├── passenger_wsgi.py    # WSGI entry point for Passenger deployment
