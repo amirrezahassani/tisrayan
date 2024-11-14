@@ -1,0 +1,15 @@
+asgiref==3.8.1
+Django==5.1.1
+django-ckeditor==6.7.1
+django-ckeditor-5==0.2.13
+django-jalali==7.1.0
+django-js-asset==2.2.0
+django-tinymce==4.1.0
+jalali_core==1.0.0
+jdatetime==5.0.0
+Khayyam==3.0.17
+psycopg2-binary==2.9.9  # این را برای استفاده از PostgreSQL نگه دارید
+python-decouple==3.8
+pytz==2024.2
+sqlparse==0.5.1
+tzdata==2024.1
